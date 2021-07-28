@@ -1,3 +1,6 @@
-empty-view {
+empty-view,
+empty-view #map {
   display: block;
+  height: 100%;
+  width: 100%;
 }
